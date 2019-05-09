@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/aop.zip"/>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/core.zip"/>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/ibatis.zip"/>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/j2ee.zip"/>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/javaconfig.zip"/>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/misc.zip"/>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/persistCore.zip"/>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/persistJdbc.zip"/>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/persistJDO.zip"/>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/remoting.zip"/>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/test.zip"/>
+	<classpathentry kind="lib" path="E:/JARs/JTP jars/web.zip"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
